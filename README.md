@@ -1,4 +1,4 @@
-# Graph Nets Demos Tests and my own Implementations
+# Graph Nets demos, tests and my own implementations
 
 This is a repository of Deepmind's Graph Networks demos and some own implementations attempts. For more infos about graph nets check out this [link](https://github.com/deepmind/graph_nets).
 
